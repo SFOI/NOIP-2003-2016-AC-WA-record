@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 	int careerr=0;
 	int face[100001];
